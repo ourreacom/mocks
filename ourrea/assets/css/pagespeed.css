@@ -975,6 +975,7 @@ li {
 
 .slider-height {
     background-image: url(../img/hero/h1_hero.png);
+    
     min-height: 840px;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1111,8 +1112,8 @@ li {
 
 .slider-area .hero-man {
     position: relative;
-    right: -292px;
-    bottom: -23px
+    /* right: -292px; 
+    bottom: -23px */
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
